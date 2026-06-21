@@ -8,7 +8,7 @@
       <tr>
         <td width="50%" valign="top">
           <h3 id="about_title" align="center">I call it facts.</h3>
-          <p align="center"><em>Engineering, science &amp; technology — in conversation.</em></p>
+          <p align="center"><em>Engineering, science &amp; technology, in conversation.</em></p>
           <p>
             <strong>I call it facts.</strong> is a podcast and media platform exploring
             <strong>AI, robotics, systems, and the frontier of technology</strong> through
@@ -39,6 +39,7 @@
             <br />
             <!-- Spotify -->
             <a href="https://open.spotify.com/show/033mlLqOETxWCnhPIWJ1PA?si=rZ4VrgndQ6u4wXHCGkCnBQ&utm_medium=share&utm_source=linktree&nd=1&dlsi=67eaa767fc9a46d5" target="_blank"><img src="https://img.shields.io/badge/Spotify-Listen-1DB954?style=flat-square&logo=spotify&logoColor=white" /></a>
+            <a href="https://www.youtube.com/@icallitfacts" target="_blank"><img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
             <br />
             <!-- Instagram -->
             <a href="https://www.instagram.com/icallitfacts" target="_blank"><img src="https://img.shields.io/badge/Instagram-@icallitfacts-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
