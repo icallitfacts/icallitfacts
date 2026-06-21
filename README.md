@@ -38,23 +38,23 @@
             <br />
             <br />
             <!-- Spotify -->
-            <a href="" target="_blank"><img src="https://img.shields.io/badge/Spotify-Listen-1DB954?style=flat-square&logo=spotify&logoColor=white" /></a>
+            <a href="https://open.spotify.com/show/033mlLqOETxWCnhPIWJ1PA?si=rZ4VrgndQ6u4wXHCGkCnBQ&utm_medium=share&utm_source=linktree&nd=1&dlsi=67eaa767fc9a46d5" target="_blank"><img src="https://img.shields.io/badge/Spotify-Listen-1DB954?style=flat-square&logo=spotify&logoColor=white" /></a>
             <br />
             <!-- Instagram -->
-            <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-@icallitfacts-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+            <a href="https://www.instagram.com/icallitfacts" target="_blank"><img src="https://img.shields.io/badge/Instagram-@icallitfacts-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
             <!-- TikTok -->
-            <a href="" target="_blank"><img src="https://img.shields.io/badge/TikTok-@icallitfacts-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
+            <a href="https://www.tiktok.com/@icallitfacts" target="_blank"><img src="https://img.shields.io/badge/TikTok-@icallitfacts-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
             <br />
             <!-- X (Twitter) -->
-            <a href="" target="_blank"><img src="https://img.shields.io/badge/X-@icallitfacts-000000?style=flat-square&logo=x&logoColor=white" /></a>
+            <a href="https://x.com/Icallitfacts" target="_blank"><img src="https://img.shields.io/badge/X-@icallitfacts-000000?style=flat-square&logo=x&logoColor=white" /></a>
             <!-- LinkedIn -->
-            <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Antonios%20Saliba-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+            <a href="https://www.linkedin.com/in/antonios-saliba-070a19299/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Antonios%20Saliba-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
             <br />
             <!-- Discord -->
-            <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+            <a href="https://discord.gg/YkZAC86v5" target="_blank"><img src="https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
             <br />
             <br />
-            <a href="" target="_blank">✨ I call it facts. ✨</a>
+            <a href="https://linktr.ee/icallitfacts" target="_blank">✨ I call it facts. ✨</a>
           </p>
         </td>
       </tr>
