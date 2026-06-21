@@ -17,13 +17,13 @@
           </p>
           <p><strong>What you'll find here:</strong></p>
           <ul>
-            <li>🎧 <strong>Episodes</strong> — long-form conversations with players &amp; transcripts</li>
-            <li>📰 <strong>News</strong> — what's moving in tech, distilled</li>
-            <li>🔬 <strong>Research</strong> — papers &amp; breakthroughs worth your time</li>
-            <li>📝 <strong>Articles</strong> — long-reads from the show</li>
-            <li>📅 <strong>Events</strong> — where the community meets</li>
-            <li>🎤 <strong>Guests</strong> — profiles &amp; an open application to join the show</li>
-            <li>💬 <strong>Community</strong> — bookmarks, search &amp; a members' newsletter</li>
+            <li>🎧 <strong>Episodes</strong> - long-form conversations with players &amp; transcripts</li>
+            <li>📰 <strong>News</strong> - what's moving in tech, distilled</li>
+            <li>🔬 <strong>Research</strong> - papers &amp; breakthroughs worth your time</li>
+            <li>📝 <strong>Articles</strong> - long-reads from the show</li>
+            <li>📅 <strong>Events</strong> - where the community meets</li>
+            <li>🎤 <strong>Guests</strong> - profiles &amp; an open application to join the show</li>
+            <li>💬 <strong>Community</strong> - bookmarks, search &amp; a members' newsletter</li>
           </ul>
           <p align="center">
             <em>I refer to them as facts. How would you describe them?</em>
