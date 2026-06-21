@@ -56,6 +56,10 @@
             <br />
             <br />
             <a href="https://linktr.ee/icallitfacts" target="_blank">✨ I call it facts. ✨</a>
+            <br />
+            <br />
+            <!-- Community -->
+            <a href="https://github.com/I-call-it-facts" target="_blank">🤝 💬 Join the Community 🌐 ✨</a>
           </p>
         </td>
       </tr>
