@@ -2,7 +2,7 @@
   <body>
     <table width="100%">
       <tr>
-        <td><i>🎙️ About the platform</i></td>
+        <td align="center"><i>🎙️ About the platform</i></td>
         <td></td>
       </tr>
       <tr>
